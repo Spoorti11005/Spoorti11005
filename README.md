@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Spoorti11005
+- 🔍 Exploring the world of ECE: Passionate about understanding the intricacies of electronics and communication systems, I am committed to acquiring knowledge and honing my skills in this 
+      dynamic field.
 - 👀 I’m interested in ...Learning  Python 
 - 🌱 I’m currently learning ...c-programming, python.
 - 💞️ I’m looking to collaborate on ...
