@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Electronics circuits, microcontrollers,Python for automation, sensors and signal processing
 - 💞️ I’m looking to collaborate on Looking to collaborate on innovative IoT or AI-based hardware projects.
   💻 Open to mini-projects involving sensors, Arduino, and real-time systems.
-- 📫 Reach me at 434pu1spoorti1@gmail.com
+- 📫 Reach me at spoortibt2005@gmail.com
 - Languages Known : Kannada, Hindi and English.
 - Hobbies : Singing, watching impactful movies, reading, and experimenting with new tech ideas.
 - Nationality : Indian
